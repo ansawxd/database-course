@@ -1,7 +1,5 @@
--- ============================================================
 -- HW #2, Part 1: Add new tables for dish categories
 -- This script adds two new tables to the existing schema
--- ============================================================
 
 -- 1. Delete new tables if they exist (for reproducibility)
 DROP TABLE IF EXISTS dish_categories CASCADE;
